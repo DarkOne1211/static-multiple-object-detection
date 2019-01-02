@@ -1,0 +1,1 @@
+# static-multiple-object-detection
